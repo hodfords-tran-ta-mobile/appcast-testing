@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Your App Changelog</title>
+    <title>Your App Changelog 123</title>
     <link>https://your-server.com/appcast.xml</link>
     <description>Changelog for Your App</description>
     <language>en</language>
