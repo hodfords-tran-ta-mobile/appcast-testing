@@ -6,7 +6,7 @@
     <description>Changelog for Your App</description>
     <language>en</language>
     <item>
-      <title>Version 1.14.5</title>
+      <title>Version 1.14.4</title>
       <sparkle:releaseNotesLink>
         https://your-server.com/release-notes.html
       </sparkle:releaseNotesLink>
@@ -14,13 +14,13 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.hodfords.smype"
-        sparkle:version="1.14.5"
+        sparkle:version="1.14.4"
         sparkle:os="android"
-        length="12345677789"
+        length="12345678"
         type="application/octet-stream" />
     </item>
     <item>
-      <title>Version 1.14.5</title>
+      <title>Version 1.14.4</title>
       <sparkle:releaseNotesLink>
         https://your-server.com/release-notes.html
       </sparkle:releaseNotesLink>
@@ -28,9 +28,9 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://apps.apple.com/vn/app/smype/id6744085053?l=vi"
-        sparkle:version="1.14.5"
+        sparkle:version="1.14.4"
         sparkle:os="ios"
-        length="12345677789"
+        length="12345678"
         type="application/octet-stream" />
     </item>
   </channel>
