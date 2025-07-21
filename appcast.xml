@@ -6,7 +6,7 @@
     <description>Changelog for Your App</description>
     <language>en</language>
     <item>
-      <title>Version 1.14.5</title>
+      <title>Version 1.14.4</title>
       <sparkle:releaseNotesLink>
         https://your-server.com/release-notes.html
       </sparkle:releaseNotesLink>
@@ -20,7 +20,7 @@
         type="application/octet-stream" />
     </item>
     <item>
-      <title>Version 1.14.5</title>
+      <title>Version 1.14.4</title>
       <sparkle:releaseNotesLink>
         https://your-server.com/release-notes.html
       </sparkle:releaseNotesLink>
